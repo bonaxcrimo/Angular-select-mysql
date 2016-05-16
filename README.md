@@ -4,8 +4,7 @@ Konfigurasi database bisa dilakukan di file getProject2.php ubah nama server, us
 ### Konfigurasi Database
 
 ```
-$connection =
-mysqli_connect("namaServer","usernameServer","passServer","namaDatabase");
+$connection = mysqli_connect("namaServer","usernameServer","passServer","namaDatabase");
 ```
 # misc
 
